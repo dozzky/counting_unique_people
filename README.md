@@ -29,9 +29,9 @@
 
 3.  pip install --upgrade virtualenv
 
-4. python3 -m venv venv
+4. python3 -m venv env_count
 
-5. source venv/bin/activate
+5. source env_count/bin/activate
 
 ### Установка зависимостей
 
